@@ -9,9 +9,8 @@ Chào mừng bạn đến với trang GitHub của mình! Mình đam mê lập t
 - 🌱 Hiện tại mình đang học: **Lập trình Web Fullstack, DevOps và Trí tuệ nhân tạo (AI)**
 - 🔭 Dự án đang làm: `Trang cá nhân`, `App quản lý`, `Dự án mã nguồn mở`
 - 💬 Có thể hỏi mình về: `JavaScript`, `React`, `Node.js`, `Python`, và `Linux`
-- 📫 Liên hệ với mình: [Email](mailto:vuthanhdat041@gmail.com) | [Facebook](https://facebook.com/vuthanhdat041) | [LinkedIn](https://linkedin.com/in/your-profile)
+- 📫 Liên hệ với mình: [Email](mailto:vuthanhdat04@gmail.com) |  
 - 😄 Đại từ: Anh/Ông (He/Him)
-- ⚡ Fun fact: Mình thích làm các ứng dụng giải quyết vấn đề thực tế hằng ngày.
 
 ---
 
